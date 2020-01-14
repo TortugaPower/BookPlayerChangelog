@@ -1,0 +1,13 @@
+{
+  "name": "bookplayer-changelog",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "author": "Tortuga Power",
+  "dependencies": {
+    "@octokit/rest": "^16.36.0"
+  },
+  "devDependencies": {
+    "lodash.sortby": "^4.7.0"
+  }
+}
